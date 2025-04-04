@@ -55,7 +55,7 @@ To get started, download the "Policy" file from the [Microsoft Edge Enterprise l
 
 ## 2: Customize and validate the initial_preferences file
 
-Customize the preferences settings in the downloaded *initial_preferences* file and validate the changes to make sure that there are no errors in the JSON code. If you find errors, check the syntax and structure of the *initial_preferences* file, make corrections, and check it again. Few example tools to validate JSON, Online [JSON Tools](https://jsonformatter.org/) or [JSON editing in Visual Studio Code](https://code.visualstudio.com/docs/languages/json).
+Customize the preferences settings in the downloaded *initial_preferences* file and validate the changes to make sure that there are no errors in the JSON code. If you find errors, check the syntax and structure of the *initial_preferences* file, make corrections, and check it again. Few example tools to validate JSON, Online JSON Tools like [JSON Formatter](https://jsonformatter.org/) and [JSON Validate](https://json-validate.com) or [JSON editing in Visual Studio Code](https://code.visualstudio.com/docs/languages/json).
 
 ## 3: Deploy preferences to users' computer
 
